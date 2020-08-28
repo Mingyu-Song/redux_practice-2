@@ -90,4 +90,4 @@ store.dispatch(decrease());
 store.dispatch(changeText("안녕하세요"));
 store.dispatch(addToList({ id: 1, text: "와우" }));
 
-//바뀐거 확인
+//바뀐거 확인ㅁㄴㅇㅁㄴ
